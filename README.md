@@ -19,7 +19,7 @@
 
 ## Diagram Alir 
 
-![photo_6271358791916305429_y](https://github.com/anantaYSR/UAS_Microcontroller/assets/93465182/be4294ec-360f-45fd-9eba-cacbe8dbd279)
+![photo_6271358791916305429_y](https://github.com/anantaYSR/UAS_Microcontroller/assets/93465182/ead47d09-bd6f-474d-9cd8-c985eceb4b9a)
 
 
 ## Hasil Pengujian 
