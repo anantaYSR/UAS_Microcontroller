@@ -17,6 +17,11 @@
 8. Layar LCD: Memberikan umpan balik dan tampilan informasi.
 9. DC Motor : Kipas untuk mendinginkan suhu ketika suhu di atas batas.
 
+## Diagram Alir 
+
+![photo_6271358791916305429_y](https://github.com/anantaYSR/UAS_Microcontroller/assets/93465182/be4294ec-360f-45fd-9eba-cacbe8dbd279)
+
+
 ## Hasil Pengujian 
 1. Pemantauan Suhu:
 Sensor DHT11 bekerja dengan baik dalam mengukur suhu dan kelembaban.
